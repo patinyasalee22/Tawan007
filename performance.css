@@ -10,8 +10,11 @@ body{
 }
 
 img{
+    
+    text-align: center; 
+    margin: 0 auto; 
     width: 340px;
-    height: 340px;
+    height: 300px;
     border-radius: 10px;
     border:  2px solid black;
 }
@@ -21,3 +24,6 @@ h1{
     margin-top: 50px;
     color: black;
 }
+
+
+
